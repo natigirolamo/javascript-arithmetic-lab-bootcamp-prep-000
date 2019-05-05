@@ -18,5 +18,6 @@ it('multiply(a, b) multiplies two numbers and returns the result', function() {
 })
 
 function add(a,b) {
-  number = a+b 
-  return number
+  number = a+b; 
+  return number;
+}
