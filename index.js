@@ -17,5 +17,5 @@ it('multiply(a, b) multiplies two numbers and returns the result', function() {
   expect(multiply(a, b)).toEqual(a * b)
 })
 
-function add() {
+function add(a,b) {
   return
